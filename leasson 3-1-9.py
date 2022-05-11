@@ -1,5 +1,3 @@
-
-
 def modify_list(l):
 	i = 0
 
